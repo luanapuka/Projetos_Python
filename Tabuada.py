@@ -1,6 +1,4 @@
-# Aula13
-
-print('=======Desafio 049==========')
+print('=======Tabuada==========')
 num=int(input('Digite um numero: '))
 for c in range(1,11,1):
     mult = num * c
