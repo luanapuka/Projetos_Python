@@ -27,7 +27,7 @@ for linha in pagina.iter_rows(min_row=2):
         webbrowser.open(link_whats)
         sleep(15)
 
-        seta= pyautogui.locateCenterOnScreen('seta2.png')
+        seta= pyautogui.locateCenterOnScreen('seta2.png')  #localiza o botão "enviar" por meio da imagem fornecida
         sleep(7)
 
         pyautogui.click(seta[0], seta[1])  #coordenada x e y contido na variável seta
