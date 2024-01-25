@@ -1,4 +1,4 @@
-#Menu de operações matemáticas
+#Menu de operações matemáticas.
 
 valor1 = 1
 valor2 = 1
