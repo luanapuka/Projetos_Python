@@ -1,5 +1,5 @@
-# Aula 11
 
+print("--- Calculadora de indice de massa corporal (IMC) ---")
 nome = str(input('Olá, qual o seu nome? '))
 altura = float(input('Digite sua altura: '))
 peso = float(input('Digite seu peso: '))
